@@ -10,9 +10,3 @@
 <a href="https://github.com/nolannguyen1212/github-stats"><img src="https://raw.githubusercontent.com/nolannguyen1212/github-stats/master/generated/overview.svg" alt="GitHub stats" width="49%" /></a>
 <a href="https://github.com/nolannguyen1212/github-stats"><img src="https://raw.githubusercontent.com/nolannguyen1212/github-stats/master/generated/languages.svg" alt="Top languages" width="49%" /></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolannguyen1212/github-stats/master/generated/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolannguyen1212/github-stats/master/generated/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nolannguyen1212/github-stats/master/generated/snake-dark.svg" width="100%" />
-</picture>
